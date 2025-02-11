@@ -7,7 +7,6 @@ print(type(cast_spell))
 
 class Sword:
 
-    
     def __init__(self, name, material, blade_length, grip):
 
         self.name = name
